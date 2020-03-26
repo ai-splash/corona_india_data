@@ -1,10 +1,28 @@
-age_group,Female,Male
-0-9,5,3
-10-19,6,8
-20-29,32,63
-30-39,12,55
-40-49,14,29
-50-59,17,25
-60-69,22,25
-70+,2,4
-Unknown,35,47
+Detected_State,Hospitalized,Recovered,Deceased
+Andaman and Nicobar Islands,1.0,0.0,0.0
+Andhra Pradesh,10.0,0.0,0.0
+Bihar,5.0,0.0,1.0
+Chandigarh,7.0,0.0,0.0
+Chhattisgarh,6.0,0.0,0.0
+Delhi,32.0,2.0,1.0
+Goa,3.0,0.0,0.0
+Gujarat,41.0,0.0,2.0
+Haryana,32.0,0.0,0.0
+Himachal Pradesh,2.0,0.0,1.0
+Jammu and Kashmir,11.0,0.0,0.0
+Karnataka,49.0,3.0,3.0
+Kerala,112.0,6.0,0.0
+Ladakh,13.0,0.0,0.0
+Madhya Pradesh,19.0,0.0,1.0
+Maharashtra,123.0,0.0,2.0
+Manipur,1.0,0.0,0.0
+Mizoram,1.0,0.0,0.0
+Odisha,2.0,0.0,0.0
+Puducherry,1.0,0.0,0.0
+Punjab,32.0,0.0,1.0
+Rajasthan,37.0,3.0,0.0
+Tamil Nadu,24.0,1.0,1.0
+Telangana,43.0,1.0,0.0
+Uttar Pradesh,40.0,2.0,0.0
+Uttarakhand,5.0,0.0,0.0
+West Bengal,9.0,0.0,1.0
