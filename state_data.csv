@@ -1,28 +1,28 @@
-Detected_State,Hospitalized,Recovered,Deceased
-Andaman and Nicobar Islands,1.0,0.0,0.0
-Andhra Pradesh,11.0,0.0,0.0
-Bihar,6.0,0.0,1.0
-Chandigarh,7.0,0.0,0.0
-Chhattisgarh,6.0,0.0,0.0
-Delhi,32.0,2.0,1.0
-Goa,3.0,0.0,0.0
-Gujarat,41.0,0.0,2.0
-Haryana,32.0,0.0,0.0
-Himachal Pradesh,2.0,0.0,1.0
-Jammu and Kashmir,13.0,0.0,1.0
-Karnataka,50.0,3.0,2.0
-Kerala,126.0,11.0,0.0
-Ladakh,13.0,0.0,0.0
-Madhya Pradesh,19.0,0.0,1.0
-Maharashtra,123.0,0.0,2.0
-Manipur,1.0,0.0,0.0
-Mizoram,1.0,0.0,0.0
-Odisha,3.0,0.0,0.0
-Puducherry,1.0,0.0,0.0
-Punjab,32.0,0.0,1.0
-Rajasthan,37.0,3.0,0.0
-Tamil Nadu,27.0,1.0,1.0
-Telangana,43.0,1.0,0.0
-Uttar Pradesh,40.0,2.0,0.0
-Uttarakhand,5.0,0.0,0.0
-West Bengal,9.0,0.0,1.0
+Detected_State,total,Hospitalized,Recovered,Deceased
+Andaman and Nicobar Islands,1.0,1.0,0.0,0.0
+Andhra Pradesh,11.0,11.0,0.0,0.0
+Bihar,7.0,6.0,0.0,1.0
+Chandigarh,7.0,7.0,0.0,0.0
+Chhattisgarh,6.0,6.0,0.0,0.0
+Delhi,35.0,32.0,2.0,1.0
+Goa,3.0,3.0,0.0,0.0
+Gujarat,43.0,41.0,0.0,2.0
+Haryana,32.0,32.0,0.0,0.0
+Himachal Pradesh,3.0,2.0,0.0,1.0
+Jammu and Kashmir,14.0,13.0,0.0,1.0
+Karnataka,55.0,50.0,3.0,2.0
+Kerala,137.0,126.0,11.0,0.0
+Ladakh,13.0,13.0,0.0,0.0
+Madhya Pradesh,20.0,19.0,0.0,1.0
+Maharashtra,125.0,123.0,0.0,2.0
+Manipur,1.0,1.0,0.0,0.0
+Mizoram,1.0,1.0,0.0,0.0
+Odisha,3.0,3.0,0.0,0.0
+Puducherry,1.0,1.0,0.0,0.0
+Punjab,33.0,32.0,0.0,1.0
+Rajasthan,40.0,37.0,3.0,0.0
+Tamil Nadu,29.0,27.0,1.0,1.0
+Telangana,44.0,43.0,1.0,0.0
+Uttar Pradesh,42.0,40.0,2.0,0.0
+Uttarakhand,5.0,5.0,0.0,0.0
+West Bengal,10.0,9.0,0.0,1.0
