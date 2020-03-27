@@ -1,0 +1,721 @@
+pid,source,note_group
+P1,,travel
+P2,,travel
+P3,,travel
+P4,,travel
+P5,,No details
+P6,,travel
+P7,P6,travel
+P8,P6,travel
+P9,P6,travel
+P10,P6,travel
+P11,P6,travel
+P12,P6,travel
+P13,P6,travel
+P14,P6,travel
+P15,P6,travel
+P16,P6,travel
+P17,P6,travel
+P18,P6,travel
+P19,P6,travel
+P20,P6,travel
+P21,P6,wife
+P22,P4,family
+P23,P4,family
+P24,P4,family
+P25,P4,family
+P26,P4,family
+P27,P4,family
+P28,P6,tourist
+P29,,travel
+P30,,travel
+P31,,travel
+P32,,travel
+P33,,No details
+P34,,travel
+P35,,travel
+P36,P35,travel
+P37,P35,travel
+P38,P35,neighbour
+P39,P35,neighbour
+P40,P29,travel
+P41,,travel
+P42,,travel
+P43,,travel
+P44,,travel
+P45,,wife
+P46,,travel
+P47,P4,contact
+P48,P22,contact
+P49,P35,friends
+P50,P35,friends
+P51,,travel
+P52,P51,wife
+P53,P51,daughter
+P54,P43,father
+P55,P43,mother
+P56,P36,father
+P57,P36,mother
+P58,P36,daughter
+P59,P36,son
+P60,P44,daughter
+P61,P44,No details
+P62,P44,driver
+P63,,travel
+P64,,travel
+P65,,travel
+P66,,travel
+P67,,travel
+P68,,travel
+P69,,travel
+P70,,travel
+P71,,travel
+P72,P64,mother
+P73,,travel
+P74,,travel
+P75,,travel
+P76,,travel
+P77,,travel
+P78,,travel
+P79,,travel
+P80,,travel
+P81,,travel
+P82,P30,son
+P83,,work
+P84,P41,contact
+P85,,travel
+P86,,travel
+P87,,travel
+P88,P78,wife
+P89,P78,No details
+P90,,travel
+P91,P73,wife
+P92,,travel
+P93,P77,wife
+P94,P77,son
+P95,,travel
+P96,,travel
+P97,,No details
+P98,P78,travel
+P99,,family
+P100,,family
+P101,,family
+P102,,family
+P103,,travel
+P104,,travel
+P105,,travel
+P106,,travel
+P107,,travel
+P108,,travel
+P109,,travel
+P110,,travel
+P111,,travel
+P112,,travel
+P113,,travel
+P114,,travel
+P115,,travel
+P116,P74,daughter
+P117,,travel
+P118,,travel
+P119,,travel
+P120,,travel
+P121,,travel
+P122,P95,No details
+P123,P95,mother
+P124,,travel
+P125,,travel
+P126,,travel
+P127,,travel
+P128,,travel
+P129,,travel
+P130,,travel
+P131,,travel
+P132,,travel
+P133,,No details
+P134,,No details
+P135,,travel
+P136,,travel
+P137,P74,doctor
+P138,,travel
+P139,,travel
+P140,,travel
+P141,,meeting
+P142,P64,boss
+P143,,travel
+P144,,travel
+P145,P146,No details
+P146,,father
+P147,,travel
+P148,P81,doctor
+P149,,travel
+P150,,travel
+P151,,travel
+P152,,travel
+P153,,travel
+P154,,train
+P155,P138,contact
+P156,,travel
+P157,,travel
+P158,,travel
+P159,,travel
+P160,,travel
+P161,P160,travel
+P162,P160,travel
+P163,P141,No details
+P164,P141,No details
+P165,P141,No details
+P166,P141,No details
+P167,P141,No details
+P168,P141,No details
+P169,P141,No details
+P170,P153,wife
+P171,,travel
+P172,,travel
+P173,,travel
+P174,,travel
+P175,,travel
+P176,,travel
+P177,,travel
+P178,,travel
+P179,,travel
+P180,,travel
+P181,,travel
+P182,,travel
+P183,,travel
+P184,,travel
+P185,,travel
+P186,,No details
+P187,,travel
+P188,,travel
+P189,,travel
+P190,,travel
+P191,,travel
+P192,,travel
+P193,,travel
+P194,,travel
+P195,,wife
+P196,,travel
+P197,,travel
+P198,,travel
+P199,,travel
+P200,,travel
+P201,,travel
+P202,,No details
+P203,,No details
+P204,P171,brother
+P205,P171,mother
+P206,,travel
+P207,P157,brother
+P208,,travel
+P209,,travel
+P210,,travel
+P211,,travel
+P212,,travel
+P213,P142,relative
+P214,P142,relative
+P215,P142,relative
+P216,,travel
+P217,,No details
+P218,,returned
+P219,P218,doctor
+P220,,travel
+P221,,No details
+P222,,travel
+P223,,travel
+P224,P172,mother
+P225,P172,brother
+P226,P172,cook
+P227,,travel
+P228,P108,tourist
+P229,P108,tourist
+P230,P108,tourist
+P231,P108,tourist
+P232,P108,tourist
+P233,,doctor
+P234,,compounder
+P235,,compounder
+P236,,compounder
+P237,,travel
+P238,,travel
+P239,,travel
+P240,,travel
+P241,P117,travel
+P242,P117,relative
+P243,P117,relative
+P244,P117,relative
+P245,,travel
+P246,,travel
+P247,,travel
+P248,,family
+P249,P248,family
+P250,P248,family
+P251,,travel
+P252,P141,No details
+P253,P141,No details
+P254,,travel
+P255,,No details
+P256,,No details
+P257,,travel
+P258,,travel
+P259,,travel
+P260,,No details
+P261,,No details
+P262,,No details
+P263,,No details
+P264,,No details
+P265,,No details
+P266,,travel
+P267,P201,sister
+P268,P172,driver
+P269,,travel
+P270,,travel
+P271,,No details
+P272,,No details
+P273,,travel
+P274,,No details
+P275,,No details
+P276,,No details
+P277,,No details
+P278,,No details
+P279,P171,daughter
+P280,P171,daughter
+P281,,No details
+P282,,No details
+P283,,No details
+P284,,No details
+P285,,travel
+P286,,No details
+P287,P172,work
+P288,,relative
+P289,,relative
+P290,P132,relative
+P291,,No details
+P292,,No details
+P293,,travel
+P294,,travel
+P295,,travel
+P296,P137,domestic
+P297,,travel
+P298,,travel
+P299,P191,contact
+P300,,travel
+P301,,travel
+P302,,travel
+P303,,travel
+P304,P182,son
+P305,P182,son
+P306,P182,son
+P307,P182,daughter
+P308,P182,daughter
+P309,P182,daughter
+P310,,travel
+P311,P182,contact
+P312,,travel
+P313,,travel
+P314,,travel
+P315,,No details
+P316,,travel
+P317,,travel
+P318,,travel
+P319,,travel
+P320,,travel
+P321,,travel
+P322,,travel
+P323,,travel
+P324,,travel
+P325,,travel
+P326,,travel
+P327,,travel
+P328,,No details
+P329,,travel
+P330,,travel
+P331,,travel
+P332,,No details
+P333,,travel
+P334,,travel
+P335,P172,contact
+P336,,travel
+P337,,travel
+P338,,travel
+P339,,travel
+P340,,travel
+P341,,contact
+P342,,travel
+P343,P272,contact
+P344,P272,contact
+P345,P272,contact
+P346,P272,contact
+P347,,travel
+P348,,travel
+P349,,travel
+P350,,travel
+P351,,No details
+P352,,No details
+P353,,No details
+P354,P295,mother
+P355,,travel
+P356,,travel
+P357,,travel
+P358,P182,contact
+P359,P182,contact
+P360,P182,contact
+P361,P182,contact
+P362,,travel
+P363,,travel
+P364,,travel
+P365,,travel
+P366,,travel
+P367,,travel
+P368,,travel
+P369,,travel
+P370,,travel
+P371,,travel
+P372,,travel
+P373,,travel
+P374,,travel
+P375,,travel
+P376,,travel
+P377,,travel
+P378,,travel
+P379,,travel
+P380,,travel
+P381,,travel
+P382,P285,son
+P383,,travel
+P384,,travel
+P385,,travel
+P386,,travel
+P387,,travel
+P388,P182,contact
+P389,,travel
+P390,P389,mother
+P391,P200,father
+P392,P200,mother
+P393,P200,domestic
+P394,P248,daughter
+P395,,travel
+P396,,travel
+P397,P196,No details
+P398,,No details
+P399,,No details
+P400,,No details
+P401,,travel
+P402,,travel
+P403,,No details
+P404,,No details
+P405,,No details
+P406,,No details
+P407,,No details
+P408,,No details
+P409,,No details
+P410,,No details
+P411,,No details
+P412,,No details
+P413,,No details
+P414,,No details
+P415,,No details
+P416,,No details
+P417,,No details
+P418,,travel
+P419,,travel
+P420,,local
+P421,,travel
+P422,,travel
+P423,P269,daughter
+P424,P269,daughter
+P425,,travel
+P426,,local
+P427,P295,father
+P428,P269,wife
+P429,,travel
+P430,,travel
+P431,P171,doctor
+P432,P171,No details
+P433,P171,No details
+P434,,travel
+P435,,travel
+P436,P141,travel
+P437,P225,brother
+P438,,travel
+P439,,No details
+P440,,travel
+P441,P269,son
+P442,,son
+P443,,travel
+P444,,travel
+P445,,travel
+P446,,travel
+P447,,travel
+P448,,travel
+P449,,travel
+P450,,travel
+P451,,travel
+P452,,travel
+P453,,travel
+P454,,travel
+P455,,travel
+P456,,travel
+P457,,travel
+P458,,travel
+P459,,travel
+P460,,travel
+P461,,travel
+P462,,travel
+P463,,travel
+P464,,travel
+P465,,travel
+P466,,travel
+P467,P108,tourist
+P468,,travel
+P469,,No details
+P470,,travel
+P471,,travel
+P472,,travel
+P473,P297,wife
+P474,,travel
+P475,,travel
+P476,,travel
+P477,,travel
+P478,,No details
+P479,,contact
+P480,,travel
+P481,,travel
+P482,,travel
+P483,,travel
+P484,,travel
+P485,,travel
+P486,,travel
+P487,,travel
+P488,P182,son
+P489,,contact
+P490,,No details
+P491,,No details
+P492,,No details
+P493,,travel
+P494,,No details
+P495,,No details
+P496,,No details
+P497,,No details
+P498,,No details
+P499,,son
+P500,,travel
+P501,,travel
+P502,P301,travel
+P503,,travel
+P504,,travel
+P505,,travel
+P506,,travel
+P507,,No details
+P508,,No details
+P509,,No details
+P510,,No details
+P511,,contact
+P512,,travel
+P513,,travel
+P514,,travel
+P515,P285,travel
+P516,,travel
+P517,,travel
+P518,,travel
+P519,P295,No details
+P520,P295,No details
+P521,,travel
+P522,,travel
+P523,,travel
+P524,,travel
+P525,,travel
+P526,,travel
+P527,,travel
+P528,P150,contact
+P529,,travel
+P530,,travel
+P531,,travel
+P532,P159,contact
+P533,P182,No details
+P534,P182,No details
+P535,P182,No details
+P536,,No details
+P537,,No details
+P538,,No details
+P539,,No details
+P540,,No details
+P541,,No details
+P542,,travel
+P543,,No details
+P544,,No details
+P545,,No details
+P546,,travel
+P547,,travel
+P548,,No details
+P549,,travel
+P550,,travel
+P551,,travel
+P552,,travel
+P553,,travel
+P554,P380,relative
+P555,,No details
+P556,,contact
+P557,,No details
+P558,,travel
+P559,,travel
+P560,,travel
+P561,,travel
+P562,,travel
+P563,,travel
+P564,P369,contact
+P565,,No details
+P566,,No details
+P567,P295,wife
+P570,P370,contact
+P571,P370,contact
+P572,,No details
+P573,,family
+P574,,family
+P575,,family
+P576,,travel
+P577,,No details
+P578,,No details
+P579,,No details
+P580,,No details
+P581,,No details
+P582,,No details
+P583,,No details
+P584,,No details
+P585,,No details
+P586,P362,father
+P587,,travel
+P588,,No details
+P589,,No details
+P590,,doctor
+P591,,travel
+P592,,contact
+P593,,travel
+P594,,travel
+P595,,travel
+P596,,tourist
+P597,P596,tourist
+P598,P596,tourist
+P599,P596,tourist
+P600,P596,tourist
+P601,,travel
+P602,,No details
+P603,,No details
+P604,P531,contact
+P605,P531,contact
+P606,P531,contact
+P607,P531,contact
+P608,,No details
+P609,,No details
+P610,,No details
+P611,,No details
+P612,,No details
+P613,,No details
+P614,,No details
+P615,,travel
+P616,,travel
+P617,,travel
+P618,,travel
+P619,,travel
+P620,,travel
+P621,,travel
+P622,,travel
+P623,P380,contact
+P624,,travel
+P625,,travel
+P626,,travel
+P627,,travel
+P628,,travel
+P629,,travel
+P630,,travel
+P631,P630,wife
+P632,,travel
+P633,P632,travel
+P634,,travel
+P635,P634,travel
+P636,P297,daughter
+P637,P297,daughter
+P638,,son
+P639,P311,son
+P640,,travel
+P641,,travel
+P642,,travel
+P643,,No details
+P644,,wife
+P645,,travel
+P646,P525,contact
+P647,,travel
+P648,,No details
+P649,,contact
+P650,,travel
+P651,,contact
+P652,,travel
+P653,,tourist
+P654,,meeting
+P655,,travel
+P656,,travel
+P657,,travel
+P658,,No details
+P659,,No details
+P660,,No details
+P661,,No details
+P662,,No details
+P663,,No details
+P664,,No details
+P665,,No details
+P666,,No details
+P667,,No details
+P668,,No details
+P669,,No details
+P670,,No details
+P671,,No details
+P672,,No details
+P673,,No details
+P674,P-171,doctor
+P675,,contact
+P676,,travel
+P677,,wife
+P678,,travel
+P679,,No details
+P680,,No details
+P681,,travel
+P682,,travel
+P683,,wife
+P684,,doctor
+P685,,No details
+P686,,No details
+P687,,contact
+P688,,travel
+P689,,travel
+P690,,travel
+P691,,travel
+P692,P385,contact
+P693,,No details
+P694,,No details
+P695,,travel
+P696,P532,travel
+P697,P532,travel
+P698,,travel
+P699,,travel
+P700,,travel
+P701,,travel
+P702,,travel
+P703,,travel
+P704,,travel
+P705,,travel
+P706,,travel
+P707,,travel
+P708,,travel
+P709,P316,travel
+P710,,travel
+P711,,travel
+P712,,travel
+P713,,No details
+P714,,No details
+P715,,No details
+P716,,No details
+P717,,travel
+P718,P717,mother
+P719,,travel
+P720,,travel
+P721,,No details
+P722,P531,relative
