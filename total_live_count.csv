@@ -1,5 +1,2 @@
-0,1
-population,1210568111.0
-Hospitalized,684.0
-Recovered,23.0
-Deceased,14.0
+Hospitalized,Recovered,Deceased,population
+840.0,29.0,16.0,1210568111
