@@ -1,0 +1,322 @@
+Detected_State,total,Detected_District,Detected_City,Hospitalized,Recovered,Deceased
+Andaman and Nicobar Islands,4.0,,,4.0,0.0,0.0
+Andaman and Nicobar Islands,1.0,North and Middle Andaman,North and Middle Andaman,1.0,0.0,0.0
+Andaman and Nicobar Islands,5.0,South Andaman,South Andaman,5.0,0.0,0.0
+Andhra Pradesh,2.0,Anantapur,Lepakshi,2.0,0.0,0.0
+Andhra Pradesh,1.0,Chittoor,Srikalahasti,1.0,0.0,0.0
+Andhra Pradesh,1.0,East Godavari,East Godavari,1.0,0.0,0.0
+Andhra Pradesh,1.0,East Godavari,Kakinada,1.0,0.0,0.0
+Andhra Pradesh,2.0,East Godavari,Rajahmundry,2.0,0.0,0.0
+Andhra Pradesh,5.0,Guntur,Guntur,5.0,0.0,0.0
+Andhra Pradesh,1.0,Guntur,Guntur,1.0,0.0,0.0
+Andhra Pradesh,1.0,Guntur,Karampudi,1.0,0.0,0.0
+Andhra Pradesh,2.0,Guntur,Macherla,2.0,0.0,0.0
+Andhra Pradesh,1.0,Krishna,Krishna,1.0,0.0,0.0
+Andhra Pradesh,4.0,Krishna,Vijayawada,4.0,0.0,0.0
+Andhra Pradesh,1.0,Kurnool,Kurnool,1.0,0.0,0.0
+Andhra Pradesh,1.0,Prakasam,Prakasam,1.0,0.0,0.0
+Andhra Pradesh,7.0,Prakasam,Chirala,7.0,0.0,0.0
+Andhra Pradesh,1.0,Prakasam,Kandukuru,1.0,0.0,0.0
+Andhra Pradesh,1.0,Prakasam,Kunkala Marru,1.0,0.0,0.0
+Andhra Pradesh,1.0,Prakasam,Ongole,1.0,0.0,0.0
+Andhra Pradesh,1.0,S.P.S. Nellore,Nellore,1.0,0.0,0.0
+Andhra Pradesh,3.0,Visakhapatnam,Visakhapatnam,3.0,0.0,0.0
+Andhra Pradesh,1.0,Visakhapatnam,Visakapatnam,0.0,1.0,0.0
+Andhra Pradesh,2.0,Visakhapatnam,Visakhapatnam,2.0,0.0,0.0
+Bihar,1.0,,,1.0,0.0,0.0
+Bihar,4.0,Bhagalpur,Bhagalpur,4.0,0.0,0.0
+Bihar,1.0,Gopalganj,Gopalganj,1.0,0.0,0.0
+Bihar,1.0,Lakhisarai,Lakhisarai,1.0,0.0,0.0
+Bihar,2.0,Munger,Munger,2.0,0.0,0.0
+Bihar,1.0,Munger,Munger,0.0,0.0,1.0
+Bihar,1.0,Nalanda,Nalanda,1.0,0.0,0.0
+Bihar,3.0,Patna,Patna,3.0,0.0,0.0
+Bihar,1.0,Patna,Patna,1.0,0.0,0.0
+Bihar,1.0,Siwan,Siwan,1.0,0.0,0.0
+Chandigarh,6.0,Chandigarh,Chandigarh,6.0,0.0,0.0
+Chandigarh,7.0,Chandigarh,Chandigarh,7.0,0.0,0.0
+Chhattisgarh,1.0,Bilaspur,Bilaspur,1.0,0.0,0.0
+Chhattisgarh,1.0,Durg,Bhilai,1.0,0.0,0.0
+Chhattisgarh,1.0,Korba,Korba,1.0,0.0,0.0
+Chhattisgarh,1.0,Raipur,Raipur,1.0,0.0,0.0
+Chhattisgarh,3.0,Raipur,Raipur,3.0,0.0,0.0
+Chhattisgarh,1.0,Rajnandgaon,Rajnandgaon,1.0,0.0,0.0
+Delhi,75.0,,,75.0,0.0,0.0
+Delhi,4.0,,Delhi,4.0,0.0,0.0
+Delhi,1.0,East Delhi,East Delhi (Mayur Vihar),0.0,1.0,0.0
+Delhi,3.0,New Delhi,Delhi,3.0,0.0,0.0
+Delhi,1.0,North Delhi,North Delhi,1.0,0.0,0.0
+Delhi,1.0,North Delhi,Rana Pratap Bagh,1.0,0.0,0.0
+Delhi,1.0,North Delhi,Tri Nagar,1.0,0.0,0.0
+Delhi,1.0,North East Delhi,Dilshad Garden,1.0,0.0,0.0
+Delhi,1.0,North West Delhi,Ashok Vihar,1.0,0.0,0.0
+Delhi,2.0,North West Delhi,Jahangirpuri,2.0,0.0,0.0
+Delhi,1.0,South Delhi,Gautam Puri,1.0,0.0,0.0
+Delhi,0.0,South Delhi,Saket,0.0,0.0,0.0
+Delhi,3.0,South West Delhi,Janakpuri,2.0,0.0,1.0
+Delhi,1.0,West Delhi,Uttam Nagar,0.0,1.0,0.0
+Delhi,1.0,West Delhi,West Delhi,1.0,0.0,0.0
+Goa,2.0,,,2.0,0.0,0.0
+Goa,3.0,North Goa,Goa,3.0,0.0,0.0
+Gujarat,10.0,,,10.0,0.0,0.0
+Gujarat,6.0,Ahmadabad,Ahmadabad,6.0,0.0,0.0
+Gujarat,17.0,Ahmadabad,Ahmedabad,15.0,1.0,1.0
+Gujarat,5.0,Bhavnagar,Bhavnagar,4.0,0.0,1.0
+Gujarat,1.0,Gandhinagar,Gandhinagar,1.0,0.0,0.0
+Gujarat,7.0,Gandhinagar,Gandhinagar,7.0,0.0,0.0
+Gujarat,1.0,Gir Somnath,Gir Somnath,1.0,0.0,0.0
+Gujarat,1.0,Kachchh,Lakhapt,1.0,0.0,0.0
+Gujarat,1.0,Mahesana,Mehsana,1.0,0.0,0.0
+Gujarat,1.0,Porbandar,Porbandar,1.0,0.0,0.0
+Gujarat,1.0,Rajkot,Rajkot,1.0,0.0,0.0
+Gujarat,7.0,Rajkot,Rajkot,7.0,0.0,0.0
+Gujarat,1.0,Surat,Surat,1.0,0.0,0.0
+Gujarat,5.0,Surat,Surat,4.0,0.0,1.0
+Gujarat,9.0,Vadodara,Vadodara,9.0,0.0,0.0
+Haryana,1.0,Ambala,Ambala,1.0,0.0,0.0
+Haryana,2.0,Faridabad,Faridabad,2.0,0.0,0.0
+Haryana,2.0,Faridabad,Faridabad,2.0,0.0,0.0
+Haryana,7.0,Gurugram,Gurugram,7.0,0.0,0.0
+Haryana,17.0,Gurugram,Gurugram,5.0,12.0,0.0
+Haryana,1.0,Palwal,Palwal,1.0,0.0,0.0
+Haryana,1.0,Panchkula,Panchkula,1.0,0.0,0.0
+Haryana,1.0,Panipat,Panipat,1.0,0.0,0.0
+Haryana,3.0,Panipat,Panipat,3.0,0.0,0.0
+Haryana,1.0,Sonipat,Sonepat,1.0,0.0,0.0
+Himachal Pradesh,3.0,Kangra,Kangra,1.0,1.0,1.0
+Jammu and Kashmir,11.0,,,11.0,0.0,0.0
+Jammu and Kashmir,2.0,Badgam,Badgam,2.0,0.0,0.0
+Jammu and Kashmir,5.0,Bandipore,Bandipore,4.0,0.0,1.0
+Jammu and Kashmir,4.0,Bandipore,Hajin,4.0,0.0,0.0
+Jammu and Kashmir,1.0,Baramula,Baramula,1.0,0.0,0.0
+Jammu and Kashmir,6.0,Jammu,Jammu,6.0,0.0,0.0
+Jammu and Kashmir,2.0,Jammu,Jammu,2.0,0.0,0.0
+Jammu and Kashmir,1.0,Jammu,Rajouri,1.0,0.0,0.0
+Jammu and Kashmir,2.0,Rajouri,Rajouri,2.0,0.0,0.0
+Jammu and Kashmir,1.0,Rajouri,Rajouri,1.0,0.0,0.0
+Jammu and Kashmir,2.0,Shopian,Shopian,2.0,0.0,0.0
+Jammu and Kashmir,10.0,Srinagar,Srinagar,10.0,0.0,0.0
+Jammu and Kashmir,1.0,Srinagar,Khanyar,1.0,0.0,0.0
+Jammu and Kashmir,3.0,Srinagar,Natipora,3.0,0.0,0.0
+Jammu and Kashmir,3.0,Srinagar,Srinagar,3.0,0.0,0.0
+Karnataka,3.0,Ballari,Hospet,3.0,0.0,0.0
+Karnataka,5.0,Bengaluru,Bengaluru,5.0,0.0,0.0
+Karnataka,34.0,Bengaluru,Bengaluru,28.0,6.0,0.0
+Karnataka,3.0,Bengaluru,Bengaluru ,3.0,0.0,0.0
+Karnataka,2.0,Chikkaballapura,Chikkaballapura,1.0,0.0,1.0
+Karnataka,1.0,Chikkaballapura,Chikkaballapura,1.0,0.0,0.0
+Karnataka,5.0,Chikkaballapura,Gauribidanur,5.0,0.0,0.0
+Karnataka,2.0,Chikkaballapura,Gowribidanur,2.0,0.0,0.0
+Karnataka,1.0,Chitradurga,Chitradurga,1.0,0.0,0.0
+Karnataka,2.0,Dakshina Kannada,Dakshina Kannada,2.0,0.0,0.0
+Karnataka,1.0,Dakshina Kannada,Bantwal,1.0,0.0,0.0
+Karnataka,4.0,Dakshina Kannada,Mangaluru,4.0,0.0,0.0
+Karnataka,2.0,Davanagere,Davangere,2.0,0.0,0.0
+Karnataka,1.0,Dharwad,Hosayellapur,1.0,0.0,0.0
+Karnataka,3.0,Kalaburagi,Kalaburagi,2.0,0.0,1.0
+Karnataka,1.0,Kodagu,Kodagu,1.0,0.0,0.0
+Karnataka,7.0,Mysuru,Mysuru,7.0,0.0,0.0
+Karnataka,2.0,Mysuru,Mysuru,2.0,0.0,0.0
+Karnataka,5.0,Mysuru,Nanjangud,5.0,0.0,0.0
+Karnataka,1.0,Tumakuru,Tumakuru,1.0,0.0,0.0
+Karnataka,1.0,Tumakuru,Tumkur,0.0,0.0,1.0
+Karnataka,2.0,Udupi,Udupi,2.0,0.0,0.0
+Karnataka,1.0,Udupi,Udupi,1.0,0.0,0.0
+Karnataka,3.0,Uttara Kannada,Uttara Kannada,3.0,0.0,0.0
+Karnataka,6.0,Uttara Kannada,Bhatkal,6.0,0.0,0.0
+Kerala,1.0,Alappuzha,Alappuzha,1.0,0.0,0.0
+Kerala,1.0,Alappuzha,Alappuzha,0.0,1.0,0.0
+Kerala,10.0,Ernakulam,Ernakulam,10.0,0.0,0.0
+Kerala,1.0,Ernakulam,           ,0.0,0.0,1.0
+Kerala,9.0,Ernakulam,Kochi,5.0,4.0,0.0
+Kerala,4.0,Idukki,Idukki,4.0,0.0,0.0
+Kerala,1.0,Idukki,Munnar,0.0,1.0,0.0
+Kerala,37.0,Kannur,Kannur,37.0,0.0,0.0
+Kerala,2.0,Kannur,Kannur,0.0,2.0,0.0
+Kerala,3.0,Kannur,Maradu,3.0,0.0,0.0
+Kerala,2.0,Kannur,Temple Gate,2.0,0.0,0.0
+Kerala,79.0,Kasaragod,Kasaragod,79.0,0.0,0.0
+Kerala,1.0,Kasaragod,Eriyal,1.0,0.0,0.0
+Kerala,1.0,Kasaragod,Kalanadu,1.0,0.0,0.0
+Kerala,26.0,Kasaragod,Kasaragod,25.0,1.0,0.0
+Kerala,2.0,Kollam,Kollam,2.0,0.0,0.0
+Kerala,1.0,Kottayam,Kottayam,1.0,0.0,0.0
+Kerala,2.0,Kottayam,Chengalam,0.0,2.0,0.0
+Kerala,6.0,Kozhikode,Kozhikode,6.0,0.0,0.0
+Kerala,6.0,Malappuram,Malappuram,6.0,0.0,0.0
+Kerala,1.0,Malappuram,Kadalundi,1.0,0.0,0.0
+Kerala,2.0,Malappuram,Malappuram,2.0,0.0,0.0
+Kerala,1.0,Malappuram,Vengara,1.0,0.0,0.0
+Kerala,4.0,Palakkad,Palakkad,4.0,0.0,0.0
+Kerala,1.0,Palakkad,Ottapalam,1.0,0.0,0.0
+Kerala,3.0,Pathanamthitta,Pathanamthitta,3.0,0.0,0.0
+Kerala,2.0,Pathanamthitta,Kozhencherry,2.0,0.0,0.0
+Kerala,7.0,Pathanamthitta,Ranni,2.0,5.0,0.0
+Kerala,4.0,Thiruvananthapuram,Thiruvananthapuram,4.0,0.0,0.0
+Kerala,1.0,Thiruvananthapuram,Nedumangad,0.0,1.0,0.0
+Kerala,2.0,Thiruvananthapuram,Thiruvananthapuram,2.0,0.0,0.0
+Kerala,1.0,Thiruvananthapuram,Varkala,0.0,1.0,0.0
+Kerala,5.0,Thrissur,Thrissur,5.0,0.0,0.0
+Kerala,2.0,Thrissur,Thrissur,0.0,2.0,0.0
+Kerala,3.0,Wayanad,Wayanad,3.0,0.0,0.0
+Ladakh,1.0,Kargil,Kargil,1.0,0.0,0.0
+Ladakh,1.0,Kargil,Sankoo Valley,1.0,0.0,0.0
+Ladakh,1.0,Leh,Chuchot,1.0,0.0,0.0
+Ladakh,2.0,Leh,Chusot,2.0,0.0,0.0
+Ladakh,2.0,Leh,Ladakh,2.0,0.0,0.0
+Ladakh,6.0,Leh,Leh,6.0,0.0,0.0
+Madhya Pradesh,3.0,,,3.0,0.0,0.0
+Madhya Pradesh,1.0,Bhopal,Bhopal,1.0,0.0,0.0
+Madhya Pradesh,2.0,Bhopal,Bhopal,2.0,0.0,0.0
+Madhya Pradesh,1.0,Gwalior,Gwalior,1.0,0.0,0.0
+Madhya Pradesh,35.0,Indore,Indore,34.0,0.0,1.0
+Madhya Pradesh,9.0,Indore,Indore,9.0,0.0,0.0
+Madhya Pradesh,8.0,Jabalpur,Jabalpur,8.0,0.0,0.0
+Madhya Pradesh,2.0,Shivpuri,Shivpuri,2.0,0.0,0.0
+Madhya Pradesh,4.0,Ujjain,Ujjain,4.0,0.0,0.0
+Madhya Pradesh,1.0,Ujjain,Ujjain,0.0,0.0,1.0
+Maharashtra,53.0,,,53.0,0.0,0.0
+Maharashtra,1.0,,Kamothe Raigad,1.0,0.0,0.0
+Maharashtra,2.0,,Mumbai City,2.0,0.0,0.0
+Maharashtra,2.0,,Navi Mumbai,2.0,0.0,0.0
+Maharashtra,1.0,,Pune,1.0,0.0,0.0
+Maharashtra,3.0,Ahmadnagar,Ahmednagar,3.0,0.0,0.0
+Maharashtra,1.0,Aurangabad,Aurangabad,1.0,0.0,0.0
+Maharashtra,2.0,Buldana,Buldana,2.0,0.0,0.0
+Maharashtra,1.0,Gondiya,Gondiya,1.0,0.0,0.0
+Maharashtra,1.0,Jalgaon,Jalgaon,1.0,0.0,0.0
+Maharashtra,2.0,Kolhapur,Kolhapur,2.0,0.0,0.0
+Maharashtra,12.0,Mumbai,Mumbai,12.0,0.0,0.0
+Maharashtra,67.0,Mumbai,Mumbai,65.0,0.0,2.0
+Maharashtra,1.0,Mumbai,Mumbai City,1.0,0.0,0.0
+Maharashtra,4.0,Mumbai Suburban,Mumbai Suburb,4.0,0.0,0.0
+Maharashtra,7.0,Nagpur,Nagpur,7.0,0.0,0.0
+Maharashtra,5.0,Nagpur,Nagpur,5.0,0.0,0.0
+Maharashtra,1.0,Nashik,Nashik,1.0,0.0,0.0
+Maharashtra,17.0,Pune,Pune,17.0,0.0,0.0
+Maharashtra,4.0,Pune,Pimpri-Chinchwad,4.0,0.0,0.0
+Maharashtra,24.0,Pune,Pune,22.0,2.0,0.0
+Maharashtra,1.0,Ratnagiri,Shrungartali,1.0,0.0,0.0
+Maharashtra,16.0,Sangli,Sangli,16.0,0.0,0.0
+Maharashtra,9.0,Sangli,Sangli,9.0,0.0,0.0
+Maharashtra,1.0,Satara,Satara,1.0,0.0,0.0
+Maharashtra,1.0,Satara,Khandala,1.0,0.0,0.0
+Maharashtra,1.0,Thane,Kalyan,1.0,0.0,0.0
+Maharashtra,4.0,Thane,Thane,4.0,0.0,0.0
+Maharashtra,4.0,Yavatmal,Yavatmal,4.0,0.0,0.0
+Manipur,1.0,Imphal West,Imphal,1.0,0.0,0.0
+Mizoram,1.0,Aizawl,Aizawl,1.0,0.0,0.0
+Odisha,3.0,Khordha,Bhubaneswar,3.0,0.0,0.0
+Puducherry,1.0,Mahe,Mahe,1.0,0.0,0.0
+Punjab,6.0,,,6.0,0.0,0.0
+Punjab,1.0,Amritsar,Amritsar,1.0,0.0,0.0
+Punjab,1.0,Amritsar,Amritsar,1.0,0.0,0.0
+Punjab,2.0,Hoshiarpur,Garhshankar,2.0,0.0,0.0
+Punjab,2.0,Jalandhar,Jalandhar,2.0,0.0,0.0
+Punjab,3.0,Jalandhar,Phillaur,3.0,0.0,0.0
+Punjab,1.0,Ludhiana,Ludhiana,1.0,0.0,0.0
+Punjab,1.0,S.A.S. Nagar,S.A.S. Nagar,1.0,0.0,0.0
+Punjab,5.0,S.A.S. Nagar,Mohali,5.0,0.0,0.0
+Punjab,12.0,Shahid Bhagat Singh Nagar,Shahid Bhagat Singh Nagar,12.0,0.0,0.0
+Punjab,1.0,Shahid Bhagat Singh Nagar,Banga,0.0,0.0,1.0
+Punjab,6.0,Shahid Bhagat Singh Nagar,Nawanshahr,6.0,0.0,0.0
+Rajasthan,10.0,,,10.0,0.0,0.0
+Rajasthan,1.0,Ajmer,Ajmer,1.0,0.0,0.0
+Rajasthan,4.0,Ajmer,Ajmer,4.0,0.0,0.0
+Rajasthan,1.0,Alwar,Alwar,1.0,0.0,0.0
+Rajasthan,4.0,Bhilwara,Bhilwara,4.0,0.0,0.0
+Rajasthan,18.0,Bhilwara,Bhilwara,18.0,0.0,0.0
+Rajasthan,1.0,Dungarpur,Dungarpur,1.0,0.0,0.0
+Rajasthan,11.0,Jaipur,Jaipur,11.0,0.0,0.0
+Rajasthan,11.0,Jaipur,Jaipur,8.0,3.0,0.0
+Rajasthan,2.0,Jhunjhunu,Jhunjhunu,2.0,0.0,0.0
+Rajasthan,6.0,Jhunjhunu,Jhunjhunu,6.0,0.0,0.0
+Rajasthan,10.0,Jodhpur,Jodhpur,10.0,0.0,0.0
+Rajasthan,1.0,Jodhpur,Jodhpur,1.0,0.0,0.0
+Rajasthan,1.0,Jodhpur,Shashtri Nagar,1.0,0.0,0.0
+Rajasthan,2.0,Pratapgarh,Pratapgarh,2.0,0.0,0.0
+Tamil Nadu,1.0,Chengalpattu,Pammal,1.0,0.0,0.0
+Tamil Nadu,7.0,Chennai,Chennai,7.0,0.0,0.0
+Tamil Nadu,1.0,Chennai,Anna Nagar,1.0,0.0,0.0
+Tamil Nadu,1.0,Chennai,Ariyalur,1.0,0.0,0.0
+Tamil Nadu,1.0,Chennai,Broadway,1.0,0.0,0.0
+Tamil Nadu,8.0,Chennai,Chennai,7.0,1.0,0.0
+Tamil Nadu,1.0,Chennai,Keelkattalai,1.0,0.0,0.0
+Tamil Nadu,1.0,Chennai,Porur,1.0,0.0,0.0
+Tamil Nadu,2.0,Chennai,Purasaivakkam,2.0,0.0,0.0
+Tamil Nadu,1.0,Chennai,Saidapet,1.0,0.0,0.0
+Tamil Nadu,1.0,Chennai,West Mambalam,1.0,0.0,0.0
+Tamil Nadu,4.0,Coimbatore,Coimbatore,4.0,0.0,0.0
+Tamil Nadu,1.0,Coimbatore,Coimbatore,1.0,0.0,0.0
+Tamil Nadu,2.0,Erode,Erode,2.0,0.0,0.0
+Tamil Nadu,17.0,Erode,Perundurai,17.0,0.0,0.0
+Tamil Nadu,1.0,Kancheepuram,Kancheepuram,0.0,1.0,0.0
+Tamil Nadu,1.0,Karur,Karur,1.0,0.0,0.0
+Tamil Nadu,5.0,Madurai,Madurai,5.0,0.0,0.0
+Tamil Nadu,1.0,Madurai,Madurai,0.0,0.0,1.0
+Tamil Nadu,6.0,Salem,Salem,6.0,0.0,0.0
+Tamil Nadu,1.0,Thanjavur,Kumbakonam,1.0,0.0,0.0
+Tamil Nadu,1.0,Tiruchirappalli,Tiruchirappalli,1.0,0.0,0.0
+Tamil Nadu,1.0,Tirunelveli,Tirunelveli,1.0,0.0,0.0
+Tamil Nadu,1.0,Tiruppur,Tiruppur,1.0,0.0,0.0
+Tamil Nadu,1.0,Tiruvannamalai,Tiruvannamalai,1.0,0.0,0.0
+Tamil Nadu,1.0,Vellore,Katpadi,1.0,0.0,0.0
+Tamil Nadu,1.0,Vellorer,Walajapet,1.0,0.0,0.0
+Tamil Nadu,3.0,Viluppuram,Viluppuram,3.0,0.0,0.0
+Tamil Nadu,1.0,Virudhunagar,Rajapalayam,1.0,0.0,0.0
+Telangana,32.0,,,31.0,0.0,1.0
+Telangana,2.0,Bhadradri Kothagudem,Bhadradri Kothagudem,2.0,0.0,0.0
+Telangana,1.0,Bhadradri Kothagudem,Kothagudem,1.0,0.0,0.0
+Telangana,2.0,Hyderabad,Hyderabad,2.0,0.0,0.0
+Telangana,1.0,Hyderabad,Balkampet,1.0,0.0,0.0
+Telangana,1.0,Hyderabad,Begumpet,1.0,0.0,0.0
+Telangana,2.0,Hyderabad,Domalguda,2.0,0.0,0.0
+Telangana,1.0,Hyderabad,Gachibowli,1.0,0.0,0.0
+Telangana,23.0,Hyderabad,Hyderabad,22.0,1.0,0.0
+Telangana,2.0,Hyderabad,Kukatpally,2.0,0.0,0.0
+Telangana,1.0,Hyderabad,Manikonda,1.0,0.0,0.0
+Telangana,1.0,Hyderabad,Saidabad,1.0,0.0,0.0
+Telangana,1.0,Hyderabad,Secunderabad,1.0,0.0,0.0
+Telangana,1.0,Hyderabad,Somajiguda,1.0,0.0,0.0
+Telangana,3.0,Karimnagar,Karimnagar,3.0,0.0,0.0
+Telangana,1.0,Medchal Malkajgiri,Qutbullapur,1.0,0.0,0.0
+Telangana,1.0,Ranga Reddy,Chandanagar,1.0,0.0,0.0
+Telangana,1.0,Ranga Reddy,Kokapet,1.0,0.0,0.0
+Uttar Pradesh,32.0,,,32.0,0.0,0.0
+Uttar Pradesh,9.0,Agra,Agra,8.0,1.0,0.0
+Uttar Pradesh,1.0,Baghpat,Baghpat,1.0,0.0,0.0
+Uttar Pradesh,6.0,Bareilly,Bareilly,6.0,0.0,0.0
+Uttar Pradesh,11.0,Gautam Buddha Nagar,Gautam Buddha Nagar,11.0,0.0,0.0
+Uttar Pradesh,1.0,Gautam Buddha Nagar,Gautam Buddh Nagar,1.0,0.0,0.0
+Uttar Pradesh,3.0,Gautam Buddha Nagar,Greater Noida,3.0,0.0,0.0
+Uttar Pradesh,12.0,Gautam Buddha Nagar,Noida,12.0,0.0,0.0
+Uttar Pradesh,3.0,Gautam Buddha Nagar,Noida ,3.0,0.0,0.0
+Uttar Pradesh,2.0,Ghaziabad,Ghaziabad,1.0,1.0,0.0
+Uttar Pradesh,1.0,Ghaziabad,Kaushambi,1.0,0.0,0.0
+Uttar Pradesh,1.0,Jaunpur,Jaunpur,1.0,0.0,0.0
+Uttar Pradesh,1.0,Kanpur Nagar,Kanpur,1.0,0.0,0.0
+Uttar Pradesh,1.0,Lucknow,Lakhimpur kheri,1.0,0.0,0.0
+Uttar Pradesh,7.0,Lucknow,Lucknow,7.0,0.0,0.0
+Uttar Pradesh,5.0,Meerut,Meerut,5.0,0.0,0.0
+Uttar Pradesh,1.0,Moradabad,Moradabad,1.0,0.0,0.0
+Uttar Pradesh,2.0,Pilibhit,Pilibhit,2.0,0.0,0.0
+Uttar Pradesh,1.0,Varanasi,Varanasi,1.0,0.0,0.0
+Uttar Pradesh,1.0,Varanasi,Varanasi,1.0,0.0,0.0
+Uttarakhand,1.0,,,1.0,0.0,0.0
+Uttarakhand,1.0,Dehradun,Dehradun,1.0,0.0,0.0
+Uttarakhand,3.0,Dehradun,Dehradun,2.0,1.0,0.0
+Uttarakhand,1.0,Pauri Garhwal,Pauri Garhwal,1.0,0.0,0.0
+Uttarakhand,1.0,Pauri Garhwal,Dugadda,1.0,0.0,0.0
+West Bengal,3.0,,,3.0,0.0,0.0
+West Bengal,1.0,Hooghly,Hooghly,1.0,0.0,0.0
+West Bengal,1.0,Howrah,Howrah,0.0,0.0,1.0
+West Bengal,1.0,Kalimpong,Kalimpong,0.0,0.0,1.0
+West Bengal,2.0,Kolkata,Kolkata,2.0,0.0,0.0
+West Bengal,3.0,Kolkata,Beleghata,3.0,0.0,0.0
+West Bengal,1.0,Kolkata,Dum Dum,0.0,0.0,1.0
+West Bengal,4.0,Kolkata,Kolkata,4.0,0.0,0.0
+West Bengal,1.0,Kolkata,Nayabad,1.0,0.0,0.0
+West Bengal,5.0,Nadia,Nadia,5.0,0.0,0.0
+West Bengal,1.0,North 24 Parganas,North 24 Parganas,1.0,0.0,0.0
+West Bengal,1.0,North 24 Parganas,Habra,1.0,0.0,0.0
+West Bengal,2.0,Purba Medinipur,Purba Medinipur,2.0,0.0,0.0
